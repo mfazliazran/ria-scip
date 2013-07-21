@@ -1,0 +1,21 @@
+<zapaddon>
+	<name>SCIP - Control Event Enumerator</name>
+	<version>2</version>
+	<description>Identify, enumerate and activate dormant &amp; invisible ASP.Net / Mono server controls</description>
+	<author>Hacktics ASC</author>
+	<url>https://code.google.com/p/ria-scip/</url>
+	<changes>Add passive scanner.</changes>
+	<dependson/>
+	<extensions>
+		<extension>org.zaproxy.zap.extension.scip</extension>
+	</extensions>
+	<ascanrules/>
+	<pscanrules/>
+	<filters/>
+	<files>
+		<file>payload-db/names.txt</file>
+		<file>payload-db/prefix.txt</file>
+	</files>
+	<not-before-version/>
+	<not-from-version/>
+</zapaddon>
