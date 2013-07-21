@@ -1,0 +1,12 @@
+cmd
+btn
+button
+tb
+hdn
+hidden
+textbox
+textBox
+box
+field
+txt
+text
