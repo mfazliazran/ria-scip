@@ -1,0 +1,14 @@
+<ZAP>
+			<addon>vehicle</addon>
+			<addon_vehicle>
+			<name>Vehicle - Viewstate Hidden Control Enumerator</name>
+			<description>Identify, enumerate and activate dormant and invisible	ASP.Net / Mono server controls</description>
+			<version>4</version>
+			<file>vehicle-alpha-4.zap</file>
+			<status>alpha</status>
+			<changes>Added Viewstate Editor, various bug fixes</changes>
+			<url>https://zap-extensions.googlecode.com/files/vehicle-alpha-4.zap</url>
+			<size>6838</size>
+			<date>2013-12-18</date>
+			</addon_vehicle>
+		</ZAP>

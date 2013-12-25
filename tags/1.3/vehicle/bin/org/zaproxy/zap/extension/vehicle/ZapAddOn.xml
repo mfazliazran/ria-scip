@@ -1,0 +1,22 @@
+<zapaddon>
+	<name>Vehicle - Viewstate Hidden Control Enumerator</name>
+	<version>4</version>
+	<description>Identify, enumerate and activate dormant and invisible	ASP.Net / Mono server controls</description>
+	<author>Hacktics ASC</author>
+	<url>https://github.com/hacktics/vehicle</url>
+	<changes>Added Viewstate Editor, various bug fixes</changes>
+	<dependson />
+	<extensions>
+		<extension>org.zaproxy.zap.extension.vehicle.VehicleExtension</extension>
+	</extensions>
+	<ascanrules />
+	<pscanrules />
+	<filters />
+	<files>
+		<file>payload-db/names.txt</file>
+		<file>payload-db/prefix.txt</file>
+		<file>payload-db/newControl.xml</file>
+	</files>
+	<not-before-version />
+	<not-from-version />
+</zapaddon>
